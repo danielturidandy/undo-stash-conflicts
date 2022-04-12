@@ -1,1 +1,2 @@
 modify file1 in master
+modify file1 in new_branch
